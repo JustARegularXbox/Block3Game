@@ -3,7 +3,22 @@ guid: 2a2d3e9eca0306b4b8f8536abcfb2837
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arms
+    second: {fileID: 2100000, guid: d72a362596574084eac7f9d075424ea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hands
+    second: {fileID: 2100000, guid: 1a6ee347877c50843b9b67cc4eb55775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spray Cleaner
+    second: {fileID: 2100000, guid: 05c620b977b35544ea1bfcd241f9056e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

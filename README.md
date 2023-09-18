@@ -1,2 +1,2 @@
 # Block3Game
-Shut the fuck up github
+Shut the f up github
